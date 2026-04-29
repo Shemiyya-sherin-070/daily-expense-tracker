@@ -1,0 +1,5 @@
+id,date,category,item,amount
+e7f9f49d-0d81-40a5-9a2a-7fde60956240,2026-04-08,Transport,car,500.0
+b1016b0d-9bd6-45a5-8025-d7281be2ea93,2026-04-29,Shopping,Cloth,2500.0
+7b3be8b1-cf26-4fb5-8fed-44f3634163f0,2026-04-29,Food,Chai,15.0
+e0004dec-11e1-4c03-925e-1a411d906803,2026-04-28,Health,Hospital,1000.0
