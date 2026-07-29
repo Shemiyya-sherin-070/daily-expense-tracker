@@ -3,6 +3,3 @@ from frontend import ExpenseTrackerApp
 root = tk.Tk()
 app = ExpenseTrackerApp(root)
 root.mainloop()
-
-
-    
